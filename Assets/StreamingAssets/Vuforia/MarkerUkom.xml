@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="MARKER_TRPL" size="10.000000 13.047956" />
+    <ImageTarget name="MARKER-TRPL" size="10.000000 13.045239" />
+  </Tracking>
+</QCARConfig>

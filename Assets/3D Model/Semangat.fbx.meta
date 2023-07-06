@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: b6ef85f4000f8ab4bab2efd56fae793c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: BezierCircle.001
+    100004: BezierCircle.002
+    100006: //RootNode
+    100008: Sphere
+    100010: Sphere.004
+    100012: Sphere.005
+    100014: Sphere.006
+    100016: Sphere.008
+    400000: BezierCircle
+    400002: BezierCircle.001
+    400004: BezierCircle.002
+    400006: //RootNode
+    400008: Sphere
+    400010: Sphere.004
+    400012: Sphere.005
+    400014: Sphere.006
+    400016: Sphere.008
+    2100000: Bumi
+    2100002: php
+    2100004: sql
+    2100006: AI
+    2100008: WEB
+    2300000: BezierCircle
+    2300002: BezierCircle.001
+    2300004: BezierCircle.002
+    2300006: Sphere
+    2300008: Sphere.004
+    2300010: Sphere.005
+    2300012: Sphere.006
+    2300014: Sphere.008
+    3300000: BezierCircle
+    3300002: BezierCircle.001
+    3300004: BezierCircle.002
+    3300006: Sphere
+    3300008: Sphere.004
+    3300010: Sphere.005
+    3300012: Sphere.006
+    3300014: Sphere.008
+    4300000: Sphere
+    4300002: BezierCircle.001
+    4300004: BezierCircle.002
+    4300006: BezierCircle
+    4300008: Sphere.004
+    4300010: Sphere.005
+    4300012: Sphere.006
+    4300014: Sphere.008
+    7400000: Idle
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - BezierCircle
+    - BezierCircle.002
+    - BezierCircle.001
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Scene
+      firstFrame: 1
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Semangat(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sphere
+      parentName: Semangat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 230.5822, y: 230.5822, z: 230.58218}
+    - name: BezierCircle.001
+      parentName: Semangat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 86.64719, y: 86.64719, z: 86.64719}
+    - name: BezierCircle.002
+      parentName: Semangat(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: BezierCircle
+      parentName: Semangat(Clone)
+      position: {x: 0.07471059, y: -0.00331223, z: -0.17731908}
+      rotation: {x: -0.7071068, y: -0.00000036067854, z: 0.00000036067854, w: 0.7071068}
+      scale: {x: 855.5185, y: 855.5185, z: 855.51855}
+    - name: Sphere.004
+      parentName: Semangat(Clone)
+      position: {x: 0.07471059, y: -0.00331223, z: 8.353364}
+      rotation: {x: -0.53241843, y: 0.44573128, z: 0.40743658, w: 0.5931692}
+      scale: {x: 100, y: 100, z: 100.00001}
+    - name: Sphere.005
+      parentName: Semangat(Clone)
+      position: {x: 0.13090056, y: -0.00331223, z: -8.708448}
+      rotation: {x: -0.5526229, y: -0.44114393, z: -0.44114408, w: 0.5526227}
+      scale: {x: 100.00001, y: 100.00001, z: 100}
+    - name: Sphere.006
+      parentName: Semangat(Clone)
+      position: {x: -0.064735115, y: 5.314109, z: 5.4706206}
+      rotation: {x: 0.076219365, y: 0.86386067, z: 0.3085994, w: 0.3907707}
+      scale: {x: 100, y: 100, z: 99.99999}
+    - name: Sphere.008
+      parentName: Semangat(Clone)
+      position: {x: 0.06473464, y: 5.314109, z: -5.4706206}
+      rotation: {x: -0.34102154, y: 0.3137921, z: -0.22976778, w: 0.8558304}
+      scale: {x: 99.99999, y: 99.99999, z: 100}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
